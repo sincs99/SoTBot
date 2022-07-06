@@ -49,4 +49,11 @@ class MyClient(discord.Client):
 
 
 client = MyClient()
-client.run("OTE1NjUxMjcyNjMwMjIyODk4.GIylp5.PJRGncrTorFAioaNmBBGNBPeRtW1_t3aZhY4h4")
+
+"""
+Change token !!
+
+"""
+
+
+client.run("")
